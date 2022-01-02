@@ -4,7 +4,7 @@
 Sukurtas programos diegimo failas (1.5 versijos pagrindu)
 
 ## Įdiegimo instrukcija
-- Realease aplankale spauskite ant "My App Setup Installer v3.msi" ir sekite instrukcijas nurodytas ekrane, kad programa būtų įdiegta kompiuteryje.
+- Realease aplankale spauskite ant "My App Setup Installer v3.msi" ir sekite instrukcijas nurodytas ekrane, kad programa būtų įdiegta kompiuteryje, įdiegiant programą pasirinkite, kuriame aplankale norite matyti įdiegtą programą.
 - Įdiegtoje programoje yra pridėtas failas, kurio pagalpa galima atlikti spartos testą, jeigu į pirmą klausimą buvo atsakyta 'T' (pridėtas failas yra užvadintas "stud100000.txt", kuriame yra 100 000 studentų duomenų: vardas, pavardė, namų darbų pažymiai (jų yra 20), egzamino įvertinimas).
 - Instaliuotą programą galite pasiekti per "Start meniu", jei nebus viršuje prie neseniai pridėtų, tuomet "Start meniu" susiraskite aplankalą "MyConsoleAppV3" ir paspauskite tame aplankale esantį failą, kuris vadinasi taip pat, kaip ir aplankalas "MyConsoleAppV3"
 
